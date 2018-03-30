@@ -1,0 +1,9 @@
+/node_modules
+/storage/*.key
+/vendor
+/public/eating_menus
+.idea/**
+**/.idea/*
+Homestead.json
+Homestead.yaml
+.env
